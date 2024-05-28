@@ -40,3 +40,5 @@
   ![C++](https://img.shields.io/badge/C++-intermediate-%2314354C?style=for-the-badge&logo=c&logoColor=white)
   <br>
   ![Arduino](https://img.shields.io/badge/Arduino-intermediate-%2314354C?style=for-the-badge&logo=arduino&logoColor=white)
+  <br>
+  ![Matlab](https://img.shields.io/badge/MatLab-intermediate-%2314354C?style=for-the-badge&logo=matlab&logoColor=white)
