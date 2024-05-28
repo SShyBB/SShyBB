@@ -1,7 +1,7 @@
 # Hi, I am Juan Guillermo Iván Ibarra Marmolejo 👋
 
 <p align="center">
-  <img width="1024" height="206" src="https://i.ibb.co/S6d78wS/Guillermo-Ibarra-27-5-2024.png">
+  <img width="1024" height="206" src="https://i.ibb.co/BG3LFr8/Git-Hub-1.gif">
 </p>
 
 <div align="center">
@@ -20,7 +20,7 @@
 <br>
 <font size = 5> ♦ 🐍  Python Developer </font>
 <br>
-<font size = 5> ♦ ⚡   Experience with Microcontrollers and FGPA´s </font>
+<font size = 5> ♦ ⚡  Experience with Microcontrollers and FGPA´s </font>
 <br>
 <font size = 5> ♦ 👀  Knowledge in Optics </font>
 <br>
